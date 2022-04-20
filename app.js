@@ -4,6 +4,7 @@ const app = new Vue (
 
         data:{
             testo: "Hello VueJS",
+            immagine: "https://picsum.photos/200/300"
         }
     }
 )
